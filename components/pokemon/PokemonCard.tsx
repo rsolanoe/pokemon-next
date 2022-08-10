@@ -26,6 +26,7 @@ export const PokemonCard: FC<Props> = ({ pokemon }) => {
                         <Text>#{pokemon.id}</Text>
                         <Text>HOLA Mundo</Text>
                         <Text>HOLA</Text>
+                        <Text>HOLA</Text>
                     </Row>
                 </Card.Footer>
             </Card>
