@@ -24,6 +24,7 @@ export const PokemonCard: FC<Props> = ({ pokemon }) => {
                     <Row justify="space-between">
                         <Text transform="capitalize">{pokemon.name}</Text>
                         <Text>#{pokemon.id}</Text>
+                        <Text>HOLA</Text>
                     </Row>
                 </Card.Footer>
             </Card>
